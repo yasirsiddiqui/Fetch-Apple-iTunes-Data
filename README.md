@@ -1,6 +1,6 @@
 Fetch-Apple-iTunes-Data
 =======================
-This class can fetch verify of data information from Apple iTunes store. With this class you can search for the following information
+This class can fetch veriety of data information from Apple iTunes store. With this class you can search for the following information
 
 • Search itunes store against any keyword and any media type
 
@@ -14,7 +14,7 @@ This class can fetch verify of data information from Apple iTunes store. With th
 
 •	Get list of iPhone/iPad Apps in any category having different ranking e.g. Top Free Apps, Top Paid Apps
 
-•	Get list of MAC OSX Apps in any category having different ranking e.g. Top Free Apps, Top Paid Apps
+•	Get list of MAC Apps in any category having different ranking e.g. Top Free Apps, Top Paid Apps
 
 •	Get the list of Movies in any category having different rankings like Top Movies
 
@@ -22,7 +22,7 @@ This class can fetch verify of data information from Apple iTunes store. With th
 
 •	Get the list of video  songs in any category having different rankings like Top video Songs
 
-•	Get the list of podcastsin any category having different rankings 
+•	Get the list of podcasts in any category having different rankings 
 
 •	Get the list of Tv Shows in any category having different rankings like Top Seasons
 
