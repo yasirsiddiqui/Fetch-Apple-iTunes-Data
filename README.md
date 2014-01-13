@@ -1,6 +1,6 @@
 Fetch-Apple-iTunes-Data
 =======================
-This class can fetch veriety of data information from Apple iTunes store. With this class you can search for the following information
+This class can fetch veriety of data information from Apple iTunes store. It gets data by consuming iTunes rss feeds. With this class you can search for the following information
 
 • Search itunes store against any keyword and any media type
 
